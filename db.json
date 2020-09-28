@@ -1,9 +1,9 @@
 {
     "users": [{
             "id": "1",
-            "name": "Animesh",
-            "email": "ani@gmail.com",
-            "phone": "0912837646372",
+            "Name": "Animesh",
+            "Email": "ani@gmail.com",
+            "Phone": "0912837646372",
             "age": 21,
             "companyId": "1"
         },
