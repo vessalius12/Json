@@ -1,6 +1,6 @@
 {
   "users": [
-    [
+    
   {
     "id": 1,
     "name": "Leanne Graham",
@@ -171,10 +171,10 @@
     "company.catchPhrase": "Centralized empowering task-force",
     "company.bs": "target end-to-end models"
   }
-]
+
   ],
    "posts": [
-     {
+  
     {
     "userId": 1,
     "id": 1,
