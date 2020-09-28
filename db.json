@@ -1,7 +1,8 @@
 {
     "users": [{
             "id": "1",
-            "Name": "Animesh",
+            "name": "Animesh",
+            "username": "Bagas",
             "Email": "ani@gmail.com",
             "Phone": "0912837646372",
             "age": 21,
